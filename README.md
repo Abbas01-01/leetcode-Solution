@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abbas01-01/leetcode-Solution/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/Abbas01-01/leetcode-Solution/tree/master/0204-count-primes) |
 ## Math
 |  |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abbas01-01/leetcode-Solution/tree/master/0204-count-primes) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Abbas01-01/leetcode-Solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
